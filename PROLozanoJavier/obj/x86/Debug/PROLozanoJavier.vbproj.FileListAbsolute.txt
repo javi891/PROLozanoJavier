@@ -1,0 +1,60 @@
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\bin\Debug\PROLozanoJavier.exe
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\bin\Debug\PROLozanoJavier.pdb
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\bin\Debug\PROLozanoJavier.xml
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Form1.resources
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Resources.resources
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.vbproj.GenerateResource.Cache
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.exe
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.xml
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.pdb
+C:\Users\javier\AppData\Local\Temporary Projects\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Coches.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.exe.config
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.exe
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.pdb
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.xml
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Clientes.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ClientesBd.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Coches.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ComprasRecambios.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ConsultaCliente.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.InserccionPiezas.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.MenuOpciones.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.PantallaInicio.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Resources.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Recambio.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.vbproj.GenerateResource.Cache
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.exe
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.xml
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.pdb
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ListadoPieza.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Averias.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Compra.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.FormularioCoche.resources
+C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.FormModificarRecambio.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.exe.config
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.exe
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.xml
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.pdb
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.exe
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.pdb
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.xml
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Averias.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Clientes.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ClientesBd.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Coches.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Compra.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ComprasRecambios.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ConsultaCliente.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.FormModificarRecambio.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.FormularioCoche.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.InserccionPiezas.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.ListadoPieza.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.MenuOpciones.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.PantallaInicio.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Resources.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.Recambio.resources
+H:\Carpetas Importantes\Visual Studio 2010\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.vbproj.GenerateResource.Cache
+C:\Users\JAVIERLENOVO\Desktop\PROLozanoJavier\PROLozanoJavier\bin\Debug\PROLozanoJavier.exe.config
+C:\Users\JAVIERLENOVO\Desktop\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.exe
+C:\Users\JAVIERLENOVO\Desktop\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.xml
+C:\Users\JAVIERLENOVO\Desktop\PROLozanoJavier\PROLozanoJavier\obj\x86\Debug\PROLozanoJavier.pdb

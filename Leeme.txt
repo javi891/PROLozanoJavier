@@ -1,0 +1,20 @@
+Estas rutas las tengo así porque no me coge bien la ruta relativa no me la actualiza.
+
+Con esto no me lo coge bien:
+
+Dim ruta As String = Application.StartupPath
+        'A la ruta actual del ejecutable, le quito la cadena "\bin\Debug"
+        ruta = ruta.Substring(0, Len(ruta) - 9) & "northwnd.mdf"
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+He tenido que poner estas que si me las coge bien:
+
+El primero es el de lanzar la ayuda:
+
+Process.Start("C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\CARWORKSHOPMANAGER.chm")
+
+el de la conexion de SQL:
+
+Conexion.ConnectionString = "Data Source=.\SQLEXPRESS;AttachDbFilename=C:\Users\javier\Documents\Visual Studio 2010\Projects\PROLozanoJavier\PROLozanoJavier\Taller2.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True"LozanoJavier\CARWORKSHOPMANAGER.chm")
